@@ -1,4 +1,3 @@
-# Erfaring med Unity og andre 3D verktøy
 
 Jeg laget mitt første Unity-spill i 2017. Mobilspillet het "Owlboys" og var en [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird) klone. Owlboys hadde integrert Google Ads og har tjent nøyaktig 0 kr på reklame. 
 
@@ -7,7 +6,7 @@ Siden 2017 har jeg jobbet med Unity i:
 - Deltidsjobben min for Ablemagic.
 - En lang rekke (uferdige) hobbyprosjekter.
 
-Har også erfaring med Three.js, et 3D-library for JavaScript, via konsulentoppdrag for Aize. 
+Har også erfaring med Three.js, et 3D-bibliotek for JavaScript, via konsulentoppdrag for Aize. 
 
 Jeg ønsker å bygge enda mer kompetanse i Unity (og andre 3D verktøy) fordi jeg har ambisjoner om å lage og publisere et spill en dag i fremtiden. 
 
@@ -20,7 +19,7 @@ Fra 2017 til 2019 hadde jeg deltidsjobb i [ablemagic](https://www.ablemagic.no/)
 
 #### Tidsreise Trondheim
 
-En digital tidsreise gjennom Trondheims historie.  
+En digital tidsreise gjennom Trondheims historie.
 
 <img src="/Experience-with-Unity-and-other-3D-software/assets/images/tidsreise-trondheim.gif" alt="Tidsreise Trondheim screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
@@ -64,7 +63,7 @@ A software mythology themed 2D platformer.
 - "Adventure Shader"
     - Description
     - Screenshot
-    
+
 - Forest scene with trees and grass
     - Description
     - Screenshot
@@ -74,7 +73,9 @@ A software mythology themed 2D platformer.
 
 ### Information Exchange's (Aize) integrasjon med Cognite Reveal
 
-På oppdrag for [Aize](https://www.aize.io/how-it-works) satte jeg opp en integrasjon mot [Cognite Reveal](https://cognitedata.github.io/reveal-docs/docs). Reveal er bygget på toppen av [Three.js](https://threejs.org/) som er et 3D-library for JavaScript. 
+På oppdrag for [Aize](https://www.aize.io/how-it-works) satte jeg opp en integrasjon mot [Cognite Reveal](https://cognitedata.github.io/reveal-docs/docs). Reveal er bygget på toppen av [Three.js](https://threejs.org/) som er et 3D-bibliotek for JavaScript. 
 
 <img src="/Experience-with-Unity-and-other-3D-software/assets/images/aize-model-viewer.gif" alt="Aize public video screencapture" style="display:block;margin:0 auto;"/>
+
+Brukeren skulle blant annet kunne laste opp en 3D modell av et stykke utstyr i Information Exchange og deretter kunne visualisere denne i context av den fullstendige digitale tvillingen.
 
