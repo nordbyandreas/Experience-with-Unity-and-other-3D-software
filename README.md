@@ -49,24 +49,30 @@ Prototypen var et konsept der en brukeren kunne tegne en tegning på en tegneskj
 ## Noen hobbyprosjekter
 
 ### IGA 
-Retro Sci-fi themed Space Golf
+
+Retro Sci-fi themed Space Golf. Her er et bilde fra startskjermen
 
 <img src="/Experience-with-Unity-and-other-3D-software/assets/images/iga.jpg" alt="IGA startmenu" style="display:block;width:200px;margin:0 auto;"/>
 
 ### Monolith
+
 A software mythology themed 2D platformer.  
 
 <img src="/Experience-with-Unity-and-other-3D-software/assets/images/monolith.gif" alt="Monolith screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
 ### 3D mini prosjekter
 
-- "Adventure Shader"
-    - Description
-    - Screenshot
+#### 3D basics exploration
 
-- Forest scene with trees and grass
-    - Description
-    - Screenshot
+Eksperimentering med å sette opp grunnleggende elementer i et 3D spill. 
+
+<img src="/Experience-with-Unity-and-other-3D-software/assets/images/3d_exploration.gif" alt="3D learning screencapture" style="display:block;width:600px;margin:0 auto;"/>
+
+#### Adventure game shader
+
+Et forsøk på å lage shadere som skulle gi landskap, natur og objekter et unikt og eventyraktig utseende. (jeg greide det ikke, og har lagt det på is for nå.)
+
+<img src="/Experience-with-Unity-and-other-3D-software/assets/images/3d_exploration_shaders.gif" alt="Shader experiment screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
 ---
 # Andre 3D verktøy
