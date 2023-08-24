@@ -70,7 +70,7 @@ Eksperimentering med å sette opp grunnleggende elementer i et 3D spill.
 
 #### Adventure game shader
 
-Et forsøk på å lage shadere som skulle gi landskap, natur og objekter et unikt og eventyraktig utseende. (jeg greide det ikke, og har lagt det på is for nå.)
+Et forsøk på å lage shadere som skulle gi landskap, natur og objekter et unikt og eventyraktig utseende. Jeg er ikke fornøyd med resultatet.
 
 <img src="/Experience-with-Unity-and-other-3D-software/assets/images/3d_exploration_shaders.gif" alt="Shader experiment screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
