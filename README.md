@@ -22,7 +22,7 @@ Fra 2017 til 2019 hadde jeg deltidsjobb i [ablemagic](https://www.ablemagic.no/)
 
 En digital tidsreise gjennom Trondheims historie.  
 
-<img src="/Experience-with-Unity-and-other-3D-software/assets/images/tidsreise-trondheim.gif.gif" alt="Tidsreise Trondheim screencapture" style="display:block;width:600px;margin:0 auto;"/>
+<img src="/Experience-with-Unity-and-other-3D-software/assets/images/tidsreise-trondheim.gif" alt="Tidsreise Trondheim screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
 
 ### Prosjekter fra universitetet
@@ -33,7 +33,7 @@ En digital tidsreise gjennom Trondheims historie.
 
 Anxiety themed platformer prototype.
 
-<img src="/Experience-with-Unity-and-other-3D-software/assets/images/pandora.gif" alt="Pandora screenshot" style="display:block;width:600px;margin:0 auto;"/>
+<img src="/Experience-with-Unity-and-other-3D-software/assets/images/pandora.png" alt="Pandora screenshot" style="display:block;width:600px;margin:0 auto;"/>
 
 Pandora ble utviklet i faget Spilldesign på NTNU og var et samarbeid mellom meg og designer Mia Edvardsen. Spillet vant senere en pris i kategorien Best Narrative på [Norwegian Game Awards 2019](https://www.gameawards.no/) (en spillutviklingskonkurranse for studenter) 
 
@@ -72,5 +72,5 @@ A software mythology themed 2D platformer.
 
 På oppdrag for [Aize](https://www.aize.io/how-it-works) satte jeg opp en integrasjon mot [Cognite Reveal](https://cognitedata.github.io/reveal-docs/docs). Reveal er bygget på toppen av [Three.js](https://threejs.org/) som er et 3D-library for JavaScript. 
 
-<img src="/Experience-with-Unity-and-other-3D-software/assets/images/aize-model-viewer.gif" alt="Aize public video screencapture" style="display:block;max-width:1200px;margin:0 auto;"/>
+<img src="/Experience-with-Unity-and-other-3D-software/assets/images/aize-model-viewer.gif" alt="Aize public video screencapture" style="display:block;margin:0 auto;"/>
 
