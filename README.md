@@ -37,12 +37,12 @@ Spillet er tilgjengelig på [Itch.io](https://andnord.itch.io/pandora)
 #### IGA 
 Retro Sci-fi themed Space Golf
 ![IGA startmenu](/assets/images/iga.jpg)
-<img src="/assets/images/iga.jpg" alt="IGA startmenu" style="display:block;width:500px;margin:0 auto;"/>
+<img src="Experience-with-Unity-and-other-3D-software//assets/images/iga.jpg" alt="IGA startmenu" style="display:block;width:500px;margin:0 auto;"/>
 
 #### Monolith
 Description
 Screenshot
-<img src="/assets/images/monolith.gif" alt="Monolith screencapture" style="display:block;width:500px;margin:0 auto;"/>
+<img src="Experience-with-Unity-and-other-3D-software//assets/images/monolith.gif" alt="Monolith screencapture" style="display:block;width:500px;margin:0 auto;"/>
 
 #### 3D mini prosjekter
 - "Adventure Shader"
