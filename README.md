@@ -41,9 +41,11 @@ Spillet er tilgjengelig på [Itch.io](https://andnord.itch.io/pandora)
 
 #### Bachelorprosjekt
 
-- tegning med dybdekamera
-- ansiktsgjenkjenning
-- tegningen *din* kjenner igjen deg. 
+I dette prosjektet ble det først utført en forskningsfase som undersøkte ny teknologi for ablemagic og deretter ble det utviklet et konsept og en protoype som benyttet seg av et utvalgt av de undersøkte teknologiene. Teknologier som ble undersøkt her var blant annet facial recognition, object detection, cameras, depth cameras, lidars, microcontrollers.
+
+Prototypen var et konsept der en brukeren kunne tegne en tegning på en tegneskjerm ved hjelp av håndbevegelser i luften eller gjennom touch-screen og sende den inn. Deretter kunne brukeren se sin egen tegning på en annen skjerm sammen med andre tegninger, og brukerens tegning ville kjenne igjen og hilse på skaperen sin ved hjelp av ansiktsgjenkjenning. Prototypen ble laget med Unity, C#, firebase og et Orbbec depth camera.
+
+*Finner dessverre ingen bilder fra resulatet av dette prosjektet*
 
 ### Noen hobbyprosjekter
 
@@ -58,9 +60,11 @@ A software mythology themed 2D platformer.
 <img src="/Experience-with-Unity-and-other-3D-software/assets/images/monolith.gif" alt="Monolith screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
 #### 3D mini prosjekter
+
 - "Adventure Shader"
     - Description
     - Screenshot
+    
 - Forest scene with trees and grass
     - Description
     - Screenshot
