@@ -1,27 +1,30 @@
-# Experience with Unity and other 3D software
+# Erfaring med Unity og andre 3D verktøy
 
 Intro
 - relationship to Unity, 3D and games
 - Dreams of publishing a game
-
+---
 ## Unity
 
-### Projects
+### Prosjekterfaring
 
 #### Tidsreise Trondheim
+![Tidsreise Trondheim screencapture](/assets/images/tidsreise-trondheim.gif)
 
-### Hobby projects
+### Hobby prosjekter
 
 #### IGA 
 Description
 Screenshot
+![IGA startmenu](/assets/images/iga.jpg)
 
 #### Monolith
 Description
 Screenshot
-![Monolith screenshot](/assets/images/Monolith.png)
+![Monolith screencapture](/assets/images/monolith.gif)
+<img src="/assets/images/monolith.gif" alt="Monolith screencapture" style="width:500px;"/>
 
-#### 3D "Discovery"
+#### 3D mini prosjekter
 - "Adventure Shader"
     - Description
     - Screenshot
@@ -29,9 +32,17 @@ Screenshot
     - Description
     - Screenshot
 
-## Aize's integration with Cognite Reveal
+---
+## Andre 3D verktøy
+
+### Information Exchange's (Aize) integrasjon med Cognite Reveal
+![Aize public video screencapture](/assets/images/aize-model-viewer.gif)
+https://www.aize.io/how-it-works
+https://cognitedata.github.io/reveal-docs/docs
+https://threejs.org/
 
 #### Aize
+
 - Description
 - Screenshot
 - Link
