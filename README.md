@@ -3,16 +3,16 @@
 Jeg laget mitt første Unity-spill i 2017. Mobilspillet het "Owlboys" og var en [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird) klone. Owlboys hadde integrert Google Ads og har tjent nøyaktig 0 kr på reklame. 
 
 Siden 2017 har jeg jobbet med Unity i:
-- Bachelorprosjekt og faget spilldesign på NTNU.
+- Bachelorprosjekt og spilldesign-fag på NTNU.
 - Deltidsjobben min for Ablemagic.
 - En lang rekke (uferdige) hobbyprosjekter.
 
 Har også erfaring med Three.js, et 3D-library for JavaScript, via konsulentoppdrag for Aize. 
 
-Jeg ønsker å bygge enda mer kompetanse i Unity (og andre 3D verktøy) fordi jeg fortsatt har ambisjoner om å lage og publisere et spill en dag i fremtiden. 
+Jeg ønsker å bygge enda mer kompetanse i Unity (og andre 3D verktøy) fordi jeg har ambisjoner om å lage og publisere et spill en dag i fremtiden. 
 
 ---
-## Unity
+## Unity prosjekter
 
 ### Arbeidserfaring
 
@@ -37,12 +37,12 @@ Spillet er tilgjengelig på [Itch.io](https://andnord.itch.io/pandora)
 #### IGA 
 Retro Sci-fi themed Space Golf
 ![IGA startmenu](/assets/images/iga.jpg)
-<img src="Experience-with-Unity-and-other-3D-software//assets/images/iga.jpg" alt="IGA startmenu" style="display:block;width:500px;margin:0 auto;"/>
+<img src="/Experience-with-Unity-and-other-3D-software/assets/images/iga.jpg" alt="IGA startmenu" style="display:block;width:500px;margin:0 auto;"/>
 
 #### Monolith
 Description
 Screenshot
-<img src="Experience-with-Unity-and-other-3D-software//assets/images/monolith.gif" alt="Monolith screencapture" style="display:block;width:500px;margin:0 auto;"/>
+<img src="/Experience-with-Unity-and-other-3D-software/assets/images/monolith.gif" alt="Monolith screencapture" style="display:block;width:500px;margin:0 auto;"/>
 
 #### 3D mini prosjekter
 - "Adventure Shader"
