@@ -11,24 +11,24 @@ Har også erfaring med Three.js, et 3D-bibliotek for JavaScript, via konsulentop
 Jeg ønsker å bygge enda mer kompetanse i Unity (og andre 3D verktøy) fordi jeg har ambisjoner om å lage og publisere et spill en dag i fremtiden. 
 
 ---
-## Unity prosjekter
+# Unity prosjekter
 
-### Arbeidserfaring
+## Arbeidserfaring
 
 Fra 2017 til 2019 hadde jeg deltidsjobb i [ablemagic](https://www.ablemagic.no/) derjeg blant annet var med på å videreutvikle applikasjonen Tidsreise Trondheim. 
 
-#### Tidsreise Trondheim
+### Tidsreise Trondheim
 
 En digital tidsreise gjennom Trondheims historie.
 
 <img src="/Experience-with-Unity-and-other-3D-software/assets/images/tidsreise-trondheim.gif" alt="Tidsreise Trondheim screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
 
-### Prosjekter fra universitetet
+## Prosjekter fra universitetet
 
 
 
-#### Pandora
+### Pandora
 
 Anxiety themed platformer prototype.
 
@@ -38,7 +38,7 @@ Pandora ble utviklet i faget Spilldesign på NTNU og var et samarbeid mellom meg
 
 Spillet er tilgjengelig på [Itch.io](https://andnord.itch.io/pandora)
 
-#### Bachelorprosjekt
+### Bachelorprosjekt
 
 I dette prosjektet ble det først utført en forskningsfase som undersøkte ny teknologi for ablemagic og deretter ble det utviklet et konsept og en protoype som benyttet seg av et utvalgt av de undersøkte teknologiene. Teknologier som ble undersøkt her var blant annet facial recognition, object detection, cameras, depth cameras, lidars, microcontrollers.
 
@@ -46,19 +46,19 @@ Prototypen var et konsept der en brukeren kunne tegne en tegning på en tegneskj
 
 *Finner dessverre ingen bilder fra resulatet av dette prosjektet*
 
-### Noen hobbyprosjekter
+## Noen hobbyprosjekter
 
-#### IGA 
+### IGA 
 Retro Sci-fi themed Space Golf
 
 <img src="/Experience-with-Unity-and-other-3D-software/assets/images/iga.jpg" alt="IGA startmenu" style="display:block;width:200px;margin:0 auto;"/>
 
-#### Monolith
+### Monolith
 A software mythology themed 2D platformer.  
 
 <img src="/Experience-with-Unity-and-other-3D-software/assets/images/monolith.gif" alt="Monolith screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
-#### 3D mini prosjekter
+### 3D mini prosjekter
 
 - "Adventure Shader"
     - Description
@@ -69,9 +69,9 @@ A software mythology themed 2D platformer.
     - Screenshot
 
 ---
-## Andre 3D verktøy
+# Andre 3D verktøy
 
-### Information Exchange's (Aize) integrasjon med Cognite Reveal
+## Information Exchange's (Aize) integrasjon med Cognite Reveal
 
 På oppdrag for [Aize](https://www.aize.io/how-it-works) satte jeg opp en integrasjon mot [Cognite Reveal](https://cognitedata.github.io/reveal-docs/docs). Reveal er bygget på toppen av [Three.js](https://threejs.org/) som er et 3D-bibliotek for JavaScript. 
 
