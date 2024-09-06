@@ -21,7 +21,7 @@ Fra 2017 til 2019 hadde jeg deltidsjobb i [ablemagic](https://www.ablemagic.no/)
 
 En digital tidsreise gjennom Trondheims historie.
 
-<img src="/Experience-with-Unity-and-other-3D-software/assets/images/tidsreise-trondheim.gif" alt="Tidsreise Trondheim screencapture" style="display:block;width:600px;margin:0 auto;"/>
+<img src="./assets/images/tidsreise-trondheim.gif" alt="Tidsreise Trondheim screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
 
 ## Prosjekter fra universitetet
@@ -32,11 +32,11 @@ En digital tidsreise gjennom Trondheims historie.
 
 Anxiety themed platformer prototype.
 
-<img src="/Experience-with-Unity-and-other-3D-software/assets/images/pandora.png" alt="Pandora screenshot" style="display:block;width:600px;margin:0 auto;"/>
+<img src="./assets/images/pandora.png" alt="Pandora screenshot" style="display:block;width:600px;margin:0 auto;"/>
 
 Pandora ble utviklet i faget Spilldesign på NTNU og var et samarbeid mellom meg og designer Mia Edvardsen. Spillet vant senere en pris i kategorien Best Narrative på [Norwegian Game Awards 2019](https://www.gameawards.no/) (en spillutviklingskonkurranse for studenter) 
 
-Spillet er tilgjengelig på [Itch.io](https://andnord.itch.io/pandora)
+Demoen er tilgjengelig på [Itch.io](https://andnord.itch.io/pandora)
 
 ### Bachelorprosjekt
 
@@ -52,13 +52,13 @@ Prototypen var et konsept der en brukeren kunne tegne en tegning på en tegneskj
 
 Retro Sci-fi themed Space Golf. Her er et bilde fra startskjermen
 
-<img src="/Experience-with-Unity-and-other-3D-software/assets/images/iga.jpg" alt="IGA startmenu" style="display:block;width:200px;margin:0 auto;"/>
+<img src="./assets/images/iga.jpg" alt="IGA startmenu" style="display:block;width:200px;margin:0 auto;"/>
 
 ### Monolith
 
 A software mythology themed 2D platformer.  
 
-<img src="/Experience-with-Unity-and-other-3D-software/assets/images/monolith.gif" alt="Monolith screencapture" style="display:block;width:600px;margin:0 auto;"/>
+<img src="./assets/images/monolith.gif" alt="Monolith screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
 ### 3D mini prosjekter
 
@@ -66,13 +66,13 @@ A software mythology themed 2D platformer.
 
 Eksperimentering med å sette opp grunnleggende elementer i et 3D spill. 
 
-<img src="/Experience-with-Unity-and-other-3D-software/assets/images/3d_exploration.gif" alt="3D learning screencapture" style="display:block;width:600px;margin:0 auto;"/>
+<img src="./assets/images/3d_exploration.gif" alt="3D learning screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
 #### Adventure game shader
 
 Et forsøk på å lage shadere som skulle gi landskap, natur og objekter et unikt og eventyraktig utseende.
 
-<img src="/Experience-with-Unity-and-other-3D-software/assets/images/3d_exploration_shaders.gif" alt="Shader experiment screencapture" style="display:block;width:600px;margin:0 auto;"/>
+<img src="./assets/images/3d_exploration_shaders.gif" alt="Shader experiment screencapture" style="display:block;width:600px;margin:0 auto;"/>
 
 ---
 # Andre 3D verktøy
@@ -81,7 +81,7 @@ Et forsøk på å lage shadere som skulle gi landskap, natur og objekter et unik
 
 På oppdrag for [Aize](https://www.aize.io/how-it-works) satte jeg opp en integrasjon mot [Cognite Reveal](https://cognitedata.github.io/reveal-docs/docs). Reveal er bygget på toppen av [Three.js](https://threejs.org/) som er et 3D-bibliotek for JavaScript. 
 
-<img src="/Experience-with-Unity-and-other-3D-software/assets/images/aize-model-viewer.gif" alt="Aize public video screencapture" style="display:block;margin:0 auto;"/>
+<img src="./assets/images/aize-model-viewer.gif" alt="Aize public video screencapture" style="display:block;margin:0 auto;"/>
 
 Brukeren skulle blant annet kunne laste opp en 3D modell av et stykke utstyr i Information Exchange og deretter kunne visualisere denne i context av den fullstendige digitale tvillingen.
 
